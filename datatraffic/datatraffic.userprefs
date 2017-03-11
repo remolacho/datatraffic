@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="datatraffic/datatraffic.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="datatraffic/family/Father.cs">
+    <Files>
+      <File FileName="datatraffic/tree/BinaryTree.cs" Line="134" Column="20" />
+      <File FileName="datatraffic/Program.cs" Line="183" Column="57" />
+      <File FileName="datatraffic/family/Father.cs" Line="6" Column="22" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

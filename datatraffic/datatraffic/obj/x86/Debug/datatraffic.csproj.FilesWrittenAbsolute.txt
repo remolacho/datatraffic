@@ -1,0 +1,5 @@
+/home/fiosistemas/Escritorio/testbogota/datatraffic/datatraffic/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/fiosistemas/Escritorio/testbogota/datatraffic/datatraffic/bin/Debug/datatraffic.exe.mdb
+/home/fiosistemas/Escritorio/testbogota/datatraffic/datatraffic/bin/Debug/datatraffic.exe
+/home/fiosistemas/Escritorio/testbogota/datatraffic/datatraffic/obj/x86/Debug/datatraffic.exe
+/home/fiosistemas/Escritorio/testbogota/datatraffic/datatraffic/obj/x86/Debug/datatraffic.exe.mdb
